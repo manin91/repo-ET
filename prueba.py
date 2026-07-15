@@ -1,1 +1,2 @@
-print("chupapi")
+def tuputamadre():
+    print("historico")
